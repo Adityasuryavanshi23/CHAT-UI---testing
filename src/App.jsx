@@ -22,7 +22,7 @@ function App() {
         >
           hello world
 
-          hellp world again
+        
           
           <RightPanel
             setOpenCopilot={setOpenCopilot}
