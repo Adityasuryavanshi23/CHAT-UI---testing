@@ -21,7 +21,7 @@ function App() {
           className={`flex-1 ${openCopilot ? "max-sm:block" : "max-sm:hidden"}`}
         >
           hello 
-
+ wolrd
         
           
           <RightPanel
